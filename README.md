@@ -3,4 +3,4 @@ It's a machine learning model which predicts the salary of the employee by analy
 This helps the company to know,how much salary to give to which employee.
 Have to input the level (1-10),and the model will output the predicted salary.
 
-
+TERI MAA KI CHUT
